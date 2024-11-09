@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+eden-connect-react/npm-debug.log*
+eden-connect-react/yarn-debug.log*
+eden-connect-react/yarn-error.log*
+eden-connect-react/pnpm-debug.log*
+eden-connect-react/lerna-debug.log*
+
+eden-connect-react/node_modules
+eden-connect-react/dist
+eden-connect-react/dist-ssr
+eden-connect-react/*.local
+
+# Editor directories and files
+eden-connect-react/.vscode/*
+eden-connect-react/!.vscode/extensions.json
+eden-connect-react/.idea
+eden-connect-react/.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+donotUpload
